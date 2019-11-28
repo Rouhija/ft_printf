@@ -1,0 +1,9 @@
+.DS_Store
+libft/libft.a
+ft_printf
+.vscode
+.idea
+*.o
+pft/
+pft/
+trash
